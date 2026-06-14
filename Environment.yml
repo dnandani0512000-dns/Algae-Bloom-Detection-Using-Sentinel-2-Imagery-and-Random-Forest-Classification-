@@ -1,0 +1,20 @@
+name: algae-bloom-rf
+
+channels:
+
+* conda-forge
+* defaults
+
+dependencies:
+
+* python=3.11
+* numpy
+* pandas
+* matplotlib
+* geopandas
+* rasterio
+* scikit-learn
+* joblib
+* jupyterlab
+* notebook
+* os
